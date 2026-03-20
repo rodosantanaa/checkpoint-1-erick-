@@ -1,13 +1,13 @@
 #include<stdio.h>
 
 int main(){
-    printf("Ola Olavo!"); ## Feito por Olavo
+    printf("Ola Olavo!"); 
     printf("\n");
     printf("Ola FIAP!");
     printf("\n");
-    printf("Seja bem vindo a instituição de ensino FIAP"); ## Feito por olavo
+    printf("Seja bem vindo a instituição de ensino FIAP"); 
     printf("\n");
-    printf("Deus me salve desse sofrimento"); ## Feito por olavo
+    printf("Deus me salve desse sofrimento"); 
     printf("Olá Checkpoint 1 do Erick! :)");
     printf("\n");
     printf("Seja bem-vindo aluno Marcelo!");
