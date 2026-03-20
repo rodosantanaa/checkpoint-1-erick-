@@ -14,6 +14,11 @@ int main(){
     printf(" Checkpoint 1 - Erick");
     printf(" Nathan Hiroshi Watanabe");
     printf(" Rodrigo");
+    printf("Checkpoint 1 -");
+    printf(" |Rodrigo S|");
+    printf(" |Hiroshi|");
+    printf(" |Marcelo|");
+    printf(" |Olavo|");
     return 0;
     
 }
