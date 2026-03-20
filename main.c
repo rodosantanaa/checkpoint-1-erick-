@@ -11,6 +11,7 @@ int main(){
     printf("Olá Checkpoint 1 do Erick! :)");
     printf("\n");
     printf("Seja bem-vindo aluno Marcelo!");
+    printf("Marcelo é feliz");
     printf(" Checkpoint 1 - Erick");
     printf(" Nathan Hiroshi Watanabe");
     printf(" Rodrigo");
