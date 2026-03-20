@@ -13,6 +13,7 @@ int main(){
     printf("Seja bem-vindo aluno Marcelo!");
     printf(" Checkpoint 1 - Erick");
     printf(" Nathan Hiroshi Watanabe");
+    printf(" Rodrigo");
     return 0;
     
 }
