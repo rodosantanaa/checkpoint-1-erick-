@@ -6,7 +6,7 @@ int main(){
     printf("Ola FIAP!");
         printf("\n");
     printf("Seja bem vindo a instituição de ensino FIAP");
-
+    printf("Deus me salve desse sofrimento");
     return 0;
 
 }
